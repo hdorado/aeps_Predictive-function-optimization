@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1546637882067.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C1DEE0C",
+    "lastKnownWriteTime" : 1546965411,
+    "last_content_update" : -2147483648,
+    "path" : "D:/GIT_HUB_REPOSITORIOS/Predictive_function_optimization/SCRIPTS/Optimization_GBHS.R",
+    "project_path" : "SCRIPTS/Optimization_GBHS.R",
+    "properties" : {
+        "cursorPosition" : "112,0",
+        "scrollLine" : "82",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1546639654386.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "29E84297",
+    "lastKnownWriteTime" : 1546961568,
+    "last_content_update" : -2147483648,
+    "path" : "D:/GIT_HUB_REPOSITORIOS/Predictive_function_optimization/SCRIPTS/GBHS_functions.R",
+    "project_path" : "SCRIPTS/GBHS_functions.R",
+    "properties" : {
+        "cursorPosition" : "284,0",
+        "scrollLine" : "257"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,31 @@
+Name_spanish,name_short_name,name_long_name,Scale,Type
+Drenaje,Infiltration,Infiltration,Nominal,S
+variedad,Cultivar,Cultivar,Nominal,M
+tratSemilla,Seed_treatment,Seed treatment,Nominal,M
+tipLab,Tillage_type,Type of tillage,Nominal,M
+deshierbe,Numb_weeding,Number of mechanical weeding,Discrete,M
+barbecho,Numb_postHarv_herb,Number of post-harvest herbicides applications,Discrete,M
+rastreo,Numb_rastreo,Number of “rastreo”,Discrete,M
+preparacionsueloherbicida,Numb_preSow_herb,Number of pre-sowing herbicides applications,Discrete,M
+fertilizacionquimicasuelo,Numb_fertilizations,Number of fertilizations,Discrete,M
+fertilizacionquimicafoliar,Numb_applic_foliar,Number of applications of foliar fertilizers,Discrete,M
+usobiofertilizantes,Numb_applic_biofer,Number of applications of biofertilizants,Discrete,M
+controlquimicomalezasdespuessiembra,Num_postSow_herb,Number of post-sowing herbicides applications,Discrete,M
+insecticida,Numb_insecticides,Number of applications of insecticides,Discrete,M
+n,Total_nitrogen,Total amount of nitrogen applied,Continuos,M
+p,Total_phosphorus,Total amount of phosphorus applied,Continuos,M
+k,Total_potassium,Total amount of potassium applied,Continuos,M
+Arcillapr,Clay,Clay content,Continuos,S
+Limoprc,Silt,Silt content,Continuos,S
+MO,OM,Soil organic content,Continuos,S
+CIC,CEC,Cationic exchange capacity,Continuos,S
+SBprc,Basis_saturation,Basis saturation,Continuos,S
+TMAvg,Avg_min_temp,Average minimum temperature,Continuos,W
+DRAvg,Avg_diurn_range,Average diurnal range,Continuos,W
+RSAccu,Acc_sol_energy,Accumulated solar energy,Continuos,W
+TX34Freq,Freq_days_maxTemp_34,Frequency of days with maximum temperature above 34°C,Continuos,W
+PAccu,Acc_precipitation,Accumulated precipitation,Continuos,W
+TM8Freq,Freq_days_minTemp_8,Frequency of days with minimum temperature below 8°C,Continuos,W
+RHAvg,Avg_relative_humidiy,Average relative humidity,Continuos,W
+RHsd,SD_relative_humidiy,Standard deviation of the relative humidity,Continuos,W
+rendimiento,Yield,Yield,Continuos,O
