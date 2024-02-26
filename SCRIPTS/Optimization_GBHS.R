@@ -17,9 +17,9 @@ load('RESULTS/Final_model.RData')
 
 source('SCRIPTS//GBHS_functions.R')
 
-nams <- read.csv(here::here('DATA/nams_matriz_mexico.csv'))
+nams <- read.csv('DATA/nams_matriz_mexico.csv')
 
-dataset <- read.csv('RESULTS/Process_dataset.csv')
+dataset <- read.csv('RESULTS/Process_dataset.csv',stringsAsFactors = T)
 
 nam_fixed <- as.character(nams[,'name_short_name'][nams$Type %in% c('S','W')]) # Names of variables to keep fixed
 
